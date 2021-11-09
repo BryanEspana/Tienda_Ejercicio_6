@@ -50,7 +50,7 @@ public class Vista {
                     "1. Ver Productos\n" +
                     "2. Ver Funcionalidades\n" +
                     "3. Hacer Compra\n" +
-                    "4. Imprimir factura\n" +
+                    "4. Aceptar Compra e Imprimir factura\n" +
                     "5. Ver sucursales\n" +
                     "6. Salir\n";
 		System.out.println(s);
